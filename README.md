@@ -209,17 +209,10 @@
  
 ### [**3. Data Visualization**](https://github.com/natalieng348/Sales_Analysis_Project/tree/main/3.%20Data%20Visualization)
 
-* To assist the decision making process, the sales managers can view the [interactive sales management dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8) which consists of an overview page and two additional pages focusing on customer data and product data over time.
+* To assist the decision making process, the sales managers can view the sales management dashboard which consists of an overview page and two additional pages focusing on customer data and product data over time.
 
 [![image](https://user-images.githubusercontent.com/96028654/190933620-bfce393c-485d-47fd-84eb-92c0b3623215.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 [![image](https://user-images.githubusercontent.com/96028654/190929087-de7fdccb-f67a-4ee6-a7e2-084f5b5bff20.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 [![image](https://user-images.githubusercontent.com/96028654/190929147-825f3128-4603-442e-be5c-783f99075e9c.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 
 
-## Issues 
-
-In case of any difficulties or issues while running the app, please raise it on the issues section. 
-
-## Pull Requests
-
-If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
